@@ -1,0 +1,30 @@
+@media all and (max-width:1000px) {
+  .lesson {
+    width:50%;
+    margin-bottom:50px;
+  }
+  .lessonn{
+    width:50%;
+    margin-bottom:50px;
+  }
+  .center{
+    width:50%;
+    margin-bottom:50px;
+  }
+}
+
+
+@media all and (max-width: 670px) {
+  .lesson {
+        width: 100%;
+        }
+  .lessonn{
+    width: 100%;
+  }
+  .center{
+    width: 100%;
+  }
+    footer {
+          text-align: center;
+            }
+      }
